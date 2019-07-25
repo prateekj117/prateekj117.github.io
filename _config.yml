@@ -1,7 +1,7 @@
 title: Prateek. I code.
-description: An open source advocate with interest in Deep learning. Software developer intern in FOSSASIA. Former Reseach Intern at IIT Mandi. Currently working in Video Steganography with Deep Learning.
+description: An open source advocate with interest in Deep learning. Software developer intern in FOSSASIA. Former Research Intern at IIT Mandi. Currently working in Video Steganography with Deep Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geekyboy.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Prateek Jain
@@ -9,7 +9,7 @@ author-image:   1.jpg
 author-job:     I kill bad guys.
 author-email:   prateekj1171998@gmail.com # Add your email for contant form.
 author-twitter: prateekj117 # Add your twitter account
-about-author:   An open source advocate with interest in Deep learning. Software developer intern in FOSSASIA. Former Reseach Intern at IIT Mandi. Currently working in Video Steganography with Deep Learning.
+about-author:   An open source advocate with interest in Deep learning. Software developer intern in FOSSASIA. Former Research Intern at IIT Mandi. Currently working in Video Steganography with Deep Learning.
 
 # Social settings
 social-twitter: prateekj117
