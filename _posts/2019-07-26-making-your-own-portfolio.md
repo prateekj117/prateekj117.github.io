@@ -7,10 +7,10 @@ tags: [portfolio, Github]
 categories: profile
 ---
 
-> **_NOTE:_**  Where ever curly brackets `{}` are used, it has a variable inside it with actual value corresponding to the name of the variable.
-
 In this blog we will be creating a portfolio using Github developer pack and Jekyll.
 So, let's first talk about what is Github developer pack and what is jekyll.
+
+> **_NOTE:_**  Where ever curly brackets `{}` are used, it has a variable inside it with actual value corresponding to the name of the variable.
 
 ### What is Github developer pack?
 {: style="color:#505050; text-align: center;"}
