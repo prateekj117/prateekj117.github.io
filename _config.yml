@@ -36,6 +36,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-compose
 
 paginate: 5
 paginate_path: "/page/:num/"
