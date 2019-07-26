@@ -27,6 +27,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-feed (0.12.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -60,8 +62,9 @@ PLATFORMS
 DEPENDENCIES
   bundler
   jekyll
+  jekyll-feed
   jekyll-paginate
   tzinfo-data
 
 BUNDLED WITH
-   1.16.0.pre.3
+   1.17.3
