@@ -15,7 +15,7 @@ First I would like to highlight the word **most** here.
 First, let's go back a year back. We all heard the news that a three-month Internship would be compulsory for our batch 
 in order to complete our B.Tech. program. First thing that popped into my head:
 
-**Great !!! Now companies will start selling Internships in the name of Training.**
+**Great !!! Now companies will start selling Trainings in the name of Internship.**
 
 And it wasn't much later that I saw all this coming true. Though it was not just the companies, it included some very 
 prestigious Universities as well. Well, no issue, maybe they will teach the students the right way and do justice to the 
