@@ -12,7 +12,7 @@ recent discussions with some people, this is the topic which I had in mind for a
 
 First I would like to highlight the word **most** here.
 
-First, let's go back a year back. We all heard the news that a three-month Internship would be compulsory for our batch 
+First, let's go back a year. We all heard the news that a three-month Internship would be compulsory for our batch 
 in order to complete our B.Tech. program. First thing that popped into my head:
 
 **Great !!! Now companies will start selling Trainings in the name of Internship.**
