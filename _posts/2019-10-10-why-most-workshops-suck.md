@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Most Workshops suck?
-image: 3.png
+image: 3.jpg
 date: 2019-10-10 01:21 +0530
 tags: [Personal thoughts]
 categories: Thoughts
