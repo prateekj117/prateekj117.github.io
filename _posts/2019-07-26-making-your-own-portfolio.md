@@ -3,8 +3,8 @@ layout: post
 title: Make your own portfolio using Jekyll and Github Developer Pack
 image: 2.jpg
 date: 2019-07-26 17:27 +0530
-tags: [portfolio, Github]
-categories: profile
+tags: [Github]
+categories: tutorials
 ---
 
 In this blog we will be creating a portfolio using Github developer pack and Jekyll.
