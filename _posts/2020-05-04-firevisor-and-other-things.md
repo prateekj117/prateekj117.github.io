@@ -3,7 +3,7 @@ layout: post
 title: 'Firevisor and other things'
 date: 2020-04-22 01:54 +0530
 tags: [Personal thoughts]
-categories: Thoughts
+categories: thoughts
 ---
 
 I know. Long time. But it's not like someone missed me.

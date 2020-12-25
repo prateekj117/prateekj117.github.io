@@ -4,7 +4,7 @@ title: Why Most Workshops suck?
 image: 3.jpg
 date: 2019-10-10 01:21 +0530
 tags: [Personal thoughts]
-categories: Thoughts
+categories: thoughts
 ---
 
 So it's 1:40 at night, and I cannot sleep (as usual). But how about writing about my thoughts this time? Due to some 
